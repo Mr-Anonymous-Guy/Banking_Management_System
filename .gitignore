@@ -1,0 +1,13 @@
+# Compiled objects and executables
+build/
+*.o
+*.exe
+*.out
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation temps
+docs/temp/
